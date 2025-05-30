@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <div className="min-h-screen bg-white text-black" style={{ fontFamily: 'Helvetica, Arial, sans-serif' }}>
@@ -43,7 +41,7 @@ export default function Home() {
               <li className="flex">
                 <span className="font-bold mr-2">•</span>
                 <div><strong>Alternative Funding Channels</strong>: Capital exists, but early-stage sustainable startups often lack access; WeSeedU enables that connection.</div>
-              </li>
+               </li>
               <li className="flex">
                 <span className="font-bold mr-2">•</span>
                 <div><strong>Momentum</strong>: Despite downturns, sustainable startups raised $9.6B in H1 2024 alone, showing sector resilience and interest.</div>
@@ -86,7 +84,7 @@ export default function Home() {
               Business Model
             </h2>
             <p className="text-justify leading-relaxed mb-4">
-              WeSeedU's revenue model is centered on a flexible 10% success fee per company, structured based on the amount of capital raised.
+              WeSeedU&apos;s revenue model is centered on a flexible 10% success fee per company, structured based on the amount of capital raised.
             </p>
             <ul className="space-y-3 mb-4">
               <li className="flex">
@@ -127,7 +125,7 @@ export default function Home() {
               </li>
             </ul>
             <p className="text-justify leading-relaxed">
-              This performance-driven model aligns WeSeedU's success with that of the startups it supports. The structure is designed to maximize platform value while maintaining fairness and accessibility across a wide range of deals.
+              This performance-driven model aligns WeSeedU&apos;s success with that of the startups it supports. The structure is designed to maximize platform value while maintaining fairness and accessibility across a wide range of deals.
             </p>
           </section>
 
@@ -417,7 +415,7 @@ export default function Home() {
               Closing Statement
             </h2>
             <p className="text-justify leading-relaxed">
-              WeSeedU combines the rigor of venture investing with the reach of digital crowdfunding. With curated listings, celebrity-powered communities, and a scalable tech foundation, it delivers value for investors, startups, and society. The platform is pre-revenue but operationally ready, lean by design, and built for impact. Maximilian Bosch's leadership and aligned advisory board ensure disciplined growth. Within 6–12 months, WeSeedU is poised to become a trusted marketplace for early-stage sustainable investment.
+              WeSeedU combines the rigor of venture investing with the reach of digital crowdfunding. With curated listings, celebrity-powered communities, and a scalable tech foundation, it delivers value for investors, startups, and society. The platform is pre-revenue but operationally ready, lean by design, and built for impact. Maximilian Bosch&apos;s leadership and aligned advisory board ensure disciplined growth. Within 6–12 months, WeSeedU is poised to become a trusted marketplace for early-stage sustainable investment.
             </p>
           </section>
 
